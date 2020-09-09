@@ -1,5 +1,5 @@
 # Loan_Prediction-and-Shopify_2021_Data_Science_Intern_Challenge
-For submission : Personal project + Shopify's 2021 Data Science Intern Challenge
+For submission : Personal project + Shopify's 2021 Data Science Intern Challenge (additional -> completed on top of my personal project submission) 
 
 
 Contains: 
